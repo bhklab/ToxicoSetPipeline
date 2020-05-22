@@ -1,0 +1,141 @@
+,tggates.drugid_rat,unique.drugid_new
+1,ibuprofen,2-(4-Isobutylphenyl)propanoic acid
+2,coumarin,2H-1-Benzopyran-2-one
+3,acarbose,Acarbose
+4,acetamidofluorene,acetamidofluorene
+5,acetaminophen,Acetaminophen
+6,acetazolamide,Acetazolamide
+7,adapin,Doxepin Hydrochloride
+8,ajmaline,Ajmalin
+9,allopurinol,Allopurinol
+10,allyl alcohol,Allyl alcohol
+11,alpidem,Alpidem
+12,amiodarone,Amiodarone
+13,amitriptyline,Amitriptyline
+14,aspirin,Aspirin
+15,azathioprine,Azathioprine
+16,bendazac,Bendazac
+17,benzbromarone,Benzbromarone
+18,benziodarone,Benziodarone
+19,bromobenzene,Bromobenzene
+20,bromoethylamine,2-Bromoethylamine
+21,bucetin,Bucetin
+22,buspirone,Buspirone
+23,buthionine sulfoximine,Buthionine sulfoximine
+24,caffeine,Caffeine
+25,captopril,Captopril
+26,carbamazepine,Carbamazepine
+27,carbon tetrachloride,Carbon tetrachloride
+28,carboplatin,Carboplatinum
+29,cephalothin,Cephalothin
+30,chloramphenicol,Chloramphenicol
+31,chlormadinone,Chlormadinone
+32,chlormezanone,Chlormezanone
+33,chlorpheniramine,Chlorpheniramine
+34,chlorpromazine,Chlorpromazine
+35,chlorpropamide,Chlorpropamide
+36,cycloheximide,Cycloheximide
+37,cyclosporine A,Cyclosporin A
+38,cimetidine,Cimetidine
+39,ciprofloxacin,Ciprofloxacin
+40,cisplatin,Cisplatin
+41,clofibrate,Clofibrate
+42,clomipramine,Clomipramine
+43,clozapine,Clozapine
+44,colchicine,Colchicine
+45,cyclophosphamide,Cyclophosphamide
+46,danazol,Danazol
+47,dantrolene,Dantrolene
+48,diazepam,Diazepam
+49,diclofenac,Diclofenac
+50,diethyl maleate,Diethyl maleate
+51,diltiazem,Diltiazem
+52,disopyramide,Disopyramide
+53,disulfiram,Disulfiram
+54,doxorubicin,Doxorubicin
+55,enalapril,Enalapril
+56,erythromycin ethylsuccinate,Erythromycin ethylsuccinate
+57,ethambutol,Ethambutol
+58,ethanol,Ethanol
+59,ethinylestradiol,Ethinyl estradiol
+60,ethionamide,Ethionamide
+61,ethionine,Ethionine
+62,etoposide,Etoposide
+63,famotidine,Pepcid
+64,fenofibrate,Fenofibrate
+65,fluphenazine,Fluphenazine
+66,flutamide,Flutamide
+67,furosemide,Furosemide
+68,galactosamine,D-Galactosamine
+69,gemfibrozil,Gemfibrozil
+70,gentamicin,Gentamicin
+71,glibenclamide,Glyburide
+72,griseofulvin,Griseofulvin
+73,haloperidol,Haloperidol
+74,hexachlorobenzene,Hexachlorobenzene
+75,hydroxyzine,Hydroxyzine
+76,imipramine,Trimipramine
+77,indomethacin,Indomethacin
+78,iproniazid,Iproniazid
+79,isoniazid,Isoniazid
+80,ketoconazole,Xolegel
+81,labetalol,Labetalol
+82,lomustine,Lomustine
+83,lornoxicam,Lornoxicam
+84,mefenamic acid,Mefenamic acid
+85,meloxicam,Meloxicam
+86,metformin,Metformin
+87,methapyrilene,Methapyrilene
+88,methyldopa,Methyldopa
+89,methyltestosterone,Methyltestosterone
+90,mexiletine,Mexiletine
+91,monocrotaline,Monocrotaline
+92,moxisylyte,Moxisylyte
+93,phenylanthranilic acid,N-Phenylanthranilic acid
+94,naphthyl isothiocyanate,1-Naphthyl isothiocyanate
+95,naproxen,Naproxen
+96,nicotinic acid,Nicotinic acid
+97,nifedipine,Nifedipine
+98,nimesulide,Nimesulide
+99,nitrofurazone,Nitrofurazone
+100,nitrofurantoin,Nitrofurantoin
+101,nitrosodiethylamine,N-Nitrosodiethylamine
+102,omeprazole,Omeprazole
+103,papaverine,Papaverine
+104,pemoline,Pemoline
+105,penicillamine,D-Penicillamine
+106,perhexiline,Perhexiline
+107,phenacetin,Phenacetin
+108,phenobarbital,Phenobarbital
+109,phenylbutazone,Phenylbutazone
+110,phenytoin,Phenytoin
+111,phorone,Phorone
+112,WY-14643,Pirinixic acid
+113,promethazine,Promethazine
+114,propylthiouracil,Propylthiouracil
+115,puromycin aminonucleoside,puromycin aminonucleoside
+116,quinidine,Quinidine
+117,ranitidine,Ranitidine
+118,rifampicin,Rifampicin
+119,simvastatin,Simvastatin
+120,sulfasalazine,Sulfasalazine
+121,sulindac,Sulindac
+122,sulpiride,Sulpiride
+123,tacrine,Tacrine
+124,tamoxifen,Tamoxifen
+125,tannic acid,Tannic acid
+126,terbinafine,Terbinafine
+127,tetracycline,Oxytetracycline
+128,theophylline,Theophylline
+129,methimazole,Methimazole
+130,thioacetamide,Thioacetamide
+131,thioridazine,Thioridazine
+132,ticlopidine,Ticlopidine
+133,tiopronin,Tiopronin
+134,tolbutamide,Tolbutamide
+135,triamterene,Triamterene
+136,triazolam,Triazolam
+137,trimethadione,Trimethadione
+138,valproic acid,Valproic acid
+139,venlafaxine,Venlafaxine
+140,vitamin A,Retinol
